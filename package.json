@@ -1,0 +1,23 @@
+{
+  "name": "pennystocks-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "puppeteer": "^13.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patkub2/webscrap-reddit-pennystocks.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patkub2/webscrap-reddit-pennystocks/issues"
+  },
+  "homepage": "https://github.com/patkub2/webscrap-reddit-pennystocks#readme"
+}
